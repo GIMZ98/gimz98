@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gimhana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimz98&label=Profile%20views&color=0e75b6&style=flat" alt="gimz98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gimz98" alt="gimz98" /></a> </p>
-
-
 <p align="left">
 </p>
 
