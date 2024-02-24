@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gimhana</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gimz98&label=Profile%20views&color=0e75b6&style=flat" alt="gimz98" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimz98&label=Profile%20views&color=0e75b6&style=flat" alt="gimz98" /> </p> -->
 
 <p align="left">
 </p>
